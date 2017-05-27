@@ -6,4 +6,4 @@
 
 ## 联系方式
 
- [Java JVM]( https://github.com/bczl/pers.bczl.se.jvm )      [Github Home]( https://github.com/bczl ) 
+ [Java JVM]( https://github.com/bczl/pers.bczl.se.jvm )      [Home]( https://github.com/bczl ) 
